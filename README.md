@@ -16,7 +16,7 @@ I enjoy exploring how intelligent systems work, understanding the fundamentals b
 | Machine Learning | Scikit-learn, Pandas, NumPy |
 | Deep Learning | TensorFlow, Keras, ANN, RNN, CNN, Transformers |
 | Web Development | HTML, CSS, JavaScript, Flask |
-| Deployment | Streamlit |
+| Deployment | Streamlit, AWS EC2 |
 | Development Tools | Git, GitHub, Jupyter Notebook, VS Code, Google Colab |
 
 
